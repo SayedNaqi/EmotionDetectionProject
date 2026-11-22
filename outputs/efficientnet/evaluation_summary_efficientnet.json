@@ -1,0 +1,22 @@
+{
+    "model": "EfficientNet-B0",
+    "evaluated_split": "PublicTest",
+    "best_epoch": 56,
+    "best_validation_accuracy": 71.21760936193925,
+    "evaluation_accuracy": 71.21760936193925,
+    "macro_precision": 0.7095775283023684,
+    "macro_recall": 0.6913835999248498,
+    "macro_f1": 0.6985978762091676,
+    "weighted_precision": 0.7111704763915223,
+    "weighted_recall": 0.7121760936193926,
+    "weighted_f1": 0.7108577447021278,
+    "class_accuracies": {
+        "Angry": 65.73875802997858,
+        "Disgust": 62.5,
+        "Fear": 54.233870967741936,
+        "Happy": 88.26815642458101,
+        "Sad": 59.264931087289426,
+        "Surprise": 86.74698795180723,
+        "Neutral": 67.21581548599671
+    }
+}

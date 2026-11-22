@@ -1,0 +1,19 @@
+ResEmoteNet - PrivateTest Evaluation
+
+Best Epoch: 28
+Validation Accuracy: 66.7038%
+
+PrivateTest Accuracy: 67.32%
+              precision    recall  f1-score   support
+
+       Angry     0.6078    0.5743    0.5906       491
+     Disgust     0.7333    0.6000    0.6600        55
+        Fear     0.5238    0.5000    0.5116       528
+       Happy     0.8623    0.8760    0.8691       879
+         Sad     0.5317    0.5370    0.5343       594
+    Surprise     0.8119    0.7885    0.8000       416
+     Neutral     0.6186    0.6709    0.6437       626
+
+    accuracy                         0.6732      3589
+   macro avg     0.6699    0.6495    0.6585      3589
+weighted avg     0.6726    0.6732    0.6725      3589

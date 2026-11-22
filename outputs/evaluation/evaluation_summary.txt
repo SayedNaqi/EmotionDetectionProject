@@ -1,0 +1,9 @@
+ResEmoteNet Final Evaluation
+========================================
+Best Epoch: 28
+Validation Accuracy: 66.70%
+PrivateTest Accuracy: 67.32%
+Macro Precision: 0.6699
+Macro Recall: 0.6495
+Macro F1-Score: 0.6585
+Weighted F1-Score: 0.6725
